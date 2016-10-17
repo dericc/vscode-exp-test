@@ -1,0 +1,5 @@
+{
+    "entryPointFilename": "main.js",
+    "entryPointComponent": "vscode-exp-test",
+    "overwriteExpJson": false
+}
